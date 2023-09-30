@@ -26,7 +26,7 @@ function CloseCon($conn)
 $dbhost = "localhost";
           $dbuser = "root";
           $dbpass = "";
-          $db = "phpcms";
+          $db = "chat";
 		  $conn = new mysqli($dbhost, $dbuser, $dbpass,$db);
 
 ?>

@@ -5,7 +5,7 @@
 <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Acme|Neucha|Satisfy|Squada+One&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/bootstrap.min.css">
- <link rel="stylesheet" href="css/glyphicons.css"
+ <link rel="stylesheet" href="css/glyphicons.css">
  <script src="js/jquery-3.4.1.min.js"></script>
  <script src="js/bootstrap.min.js"></script>
 
